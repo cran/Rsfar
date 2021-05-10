@@ -1,0 +1,15 @@
+2c5d891dce6aed7aa574050260e3319b *DESCRIPTION
+0985845cd1056be29d54819db89c1ed2 *NAMESPACE
+9c2fad1522dbff4740c380fc016de8da *R/OpsMat.r
+56e07fcfe74a277ec41130437da8cede *R/predict.r
+3bbef1f37ccae695cc0b2b987762b251 *R/rsfar.R
+18d56d9ad61d036b97d90fa8e518bd7b *R/sfar.r
+3d9d58a7f7269918813b6694cc19860c *R/sfar_func.r
+c9bdca6c8c919bde8e96d37725c0417c *R/utils.r
+8f393c68020e57b63dfa0b5638bfe16b *README.md
+edf26a8fe69ada3806082c8773febed5 *man/Bdiag.Rd
+f1af57fa87bf8a8d5428799b27dbd7d4 *man/Rsfar-package.Rd
+ad0ea2b8672066064f8bcc275293051c *man/invsqrt.Rd
+ee76b5b1a20cc35f09cb9300dc06c1bb *man/predict.sfar.Rd
+d72955b1b5877cb44cf270f0817721f9 *man/rsfar.Rd
+e32f508e8b249415cc5c5e36827502d5 *man/sfar.Rd
